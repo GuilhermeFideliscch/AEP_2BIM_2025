@@ -33,7 +33,7 @@ Certifique-se de ter o [Node.js](https://nodejs.org/en/) (com npm) ou [Yarn](htt
 .  **Instale as dependências:**
    no terminal dentro da pasta, verifique se voce etá no caminho AEP_2BIM_2025/mapa
 para isso no terminal faca, cd AEP_2BIM_2025 e depois cd mapa
-após isso, digite npm run dev aperte enter e espere
+após isso, digite npm install aperte enter e espere
 ### Execução
 .  **Inicie o servidor de desenvolvimento:**
     após o npm run dev, digite npm run dev e de enter
