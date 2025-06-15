@@ -1,42 +1,30 @@
-# Node modules and temporary files
-node_modules/
+# Logs
+logs
 *.log
 npm-debug.log*
 yarn-debug.log*
-.pnpm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
 
-# Environment variables
-.env
-.env.*.local
+node_modules
+.DS_Store
+dist
+dist-ssr
+coverage
+*.local
 
-# Build artifacts
-/dist
-/build
-/out
-/tmp
-*.zip
-*.rar
+/cypress/videos/
+/cypress/screenshots/
 
-# IDE and editor specific files
-.idea/
-.vscode/
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
-*.bak
-*.swp
-*.swo
+*.sw?
 
-# MacOS specific files
-.DS_Store
-
-# Test / Coverage directories
-/coverage
-/.nyc_output
-
-# Local configuration files
-*.local
-
-# Vue CLI 3/4 specific (if applicable)
-.history/
+*.tsbuildinfo
