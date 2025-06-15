@@ -36,5 +36,5 @@ para isso no terminal faca, cd AEP_2BIM_2025 e depois cd mapa
 após isso, digite npm install aperte enter e espere
 ### Execução
 .  **Inicie o servidor de desenvolvimento:**
-    após o npm run dev, digite npm run dev e de enter
+    após o npm install, digite npm run dev e de enter
     O aplicativo estará disponível em `http://localhost:5173/` (ou outra porta indicada no terminal).
