@@ -15,6 +15,7 @@ Este mapa apresenta dados de risco ambiental **ilustrativos**, elaborados para f
 * **HTML/CSS:** Estruturação e estilização.
 * **JavaScript (ES6+):** Lógica da aplicação.
 * **Dados JSON:** Armazenamento local dos dados de risco (simulando uma fonte externa).
+* **AXIOS**
 
 ## 🚀 Como Executar o Projeto Localmente
 
@@ -26,28 +27,14 @@ Certifique-se de ter o [Node.js](https://nodejs.org/en/) (com npm) ou [Yarn](htt
 
 ### Instalação
 
-1.  **Clone o repositório:**
+.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
-2.  **Instale as dependências:**
-    ```bash
-    npm install
-    # ou
-    yarn install
-    ```
+    git clone https://github.com/GuilhermeFideliscch/AEP_2BIM_2025
+.  **Instale as dependências:**
+   no terminal dentro da pasta, verifique se voce etá no caminho AEP_2BIM_2025/mapa
+para isso no terminal faca, cd AEP_2BIM_2025 e depois cd mapa
+após isso, digite npm run dev aperte enter e espere
 ### Execução
-1.  **Inicie o servidor de desenvolvimento:**
-    ```bash
-    npm run dev
-    # ou
-    yarn dev
-    ```
+.  **Inicie o servidor de desenvolvimento:**
+    após o npm run dev, digite npm run dev e de enter
     O aplicativo estará disponível em `http://localhost:5173/` (ou outra porta indicada no terminal).
-2.  **Compile para produção (opcional):**
-    ```bash
-    npm run build
-    # ou
-    yarn build
-    ```
-    Isso gerará os arquivos estáticos na pasta `dist/` para deployment.
-## 📁 Estrutura do Projeto (Simplificada)
