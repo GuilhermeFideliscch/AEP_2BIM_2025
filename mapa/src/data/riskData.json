@@ -1,0 +1,317 @@
+[
+  {
+    "name": "Manaus",
+    "lat": -3.107,
+    "lon": -60.027,
+    "riskLevel": 78,
+    "justification": "Capital amazônica de grande porte. Alta densidade populacional em áreas de risco de inundações sazonais (cheias dos rios) e desafios de saneamento. Vulnerabilidade em algumas áreas ribeirinhas e periféricas. (Ref. estudos sobre vulnerabilidade urbana e cheias fluviais na Amazônia)."
+  },
+  {
+    "name": "Tefé",
+    "lat": -4.331,
+    "lon": -62.200,
+    "riskLevel": 63,
+    "justification": "Município no interior da Amazônia. Desmatamento no entorno (pressão da agropecuária), acesso limitado a infraestrutura em comunidades distantes. Riscos moderados de doenças tropicais. (Ref. dados de desmatamento INPE, estudos sobre saúde em áreas remotas)."
+  },
+  {
+    "name": "Fronteira AM/PA",
+    "lat": -1.000,
+    "lon": -56.000,
+    "riskLevel": 45,
+    "justification": "Área de baixa densidade populacional. Riscos pontuais relacionados a atividades ilegais (garimpo, exploração de madeira) e isolamento geográfico, mas menor risco urbano de desastres. (Ref. relatórios de segurança e impactos ambientais na Amazônia)."
+  },
+  {
+    "name": "Porto Velho",
+    "lat": -8.761,
+    "lon": -63.903,
+    "riskLevel": 72,
+    "justification": "Capital com forte histórico de desmatamento na região do 'Arco do Desmatamento'. Expansão urbana rápida, desafios de infraestrutura e saneamento. Impactos relacionados a grandes obras. (Ref. dados do INPE e estudos de urbanização em fronteiras agrícolas)."
+  },
+  {
+    "name": "Boa Vista",
+    "lat": 2.819,
+    "lon": -60.722,
+    "riskLevel": 58,
+    "justification": "Capital de fronteira. Crescimento populacional acentuado devido a fluxos migratórios, gerando desafios urbanos (moradia, saneamento). Temperaturas elevadas. (Ref. dados do IBGE, relatórios sobre migração e urbanização)."
+  },
+  {
+    "name": "Macapá",
+    "lat": -0.038,
+    "lon": -51.066,
+    "riskLevel": 62,
+    "justification": "Cidade costeira e ribeirinha. Riscos de inundações por marés e chuvas, desafios de saneamento e infraestrutura. Isolamento rodoviário. (Ref. estudos de vulnerabilidade costeira e saneamento no Amapá)."
+  },
+  {
+    "name": "Belém",
+    "lat": -1.455,
+    "lon": -48.502,
+    "riskLevel": 88,
+    "justification": "Megalópole amazônica. Altos riscos de inundações sazonais, alta densidade urbana com ocupações em áreas de risco (palafitas, encostas). Desafios socioeconômicos e ambientais complexos. (Ref. CEMADEN, estudos urbanos da Amazônia)."
+  },
+  {
+    "name": "Altamira",
+    "lat": -5.400,
+    "lon": -52.000,
+    "riskLevel": 80,
+    "justification": "Região impactada por grandes projetos de infraestrutura (ex: Belo Monte), com desmatamento e conflitos sociais intensificados. Crescimento urbano desordenado. (Ref. relatórios de impactos socioambientais de grandes obras, INPE)."
+  },
+  {
+    "name": "São Félix do Xingu",
+    "lat": -7.000,
+    "lon": -54.000,
+    "riskLevel": 77,
+    "justification": "Uma das maiores áreas de desmatamento e conflito agrário do Brasil. Atividades ilegais (garimpo, exploração de madeira) e violência. (Ref. dados do INPE, CPT - Comissão Pastoral da Terra)."
+  },
+  {
+    "name": "Palmas",
+    "lat": -9.200,
+    "lon": -48.000,
+    "riskLevel": 38,
+    "justification": "Capital planejada mais recente. Melhor infraestrutura urbana e menor densidade populacional, resultando em menor exposição a desastres naturais urbanos. (Ref. dados do IBGE sobre cidades planejadas)."
+  },
+  {
+    "name": "Interior Tocantins",
+    "lat": -7.500,
+    "lon": -49.500,
+    "riskLevel": 28,
+    "justification": "Áreas rurais com baixa densidade e menor exposição a riscos ambientais de grande escala, exceto por questões sazonais de seca/chuva. (Ref. dados do IBGE e características do bioma Cerrado)."
+  },
+  {
+    "name": "Tarauacá",
+    "lat": -7.234,
+    "lon": -70.479,
+    "riskLevel": 70,
+    "justification": "Município no Acre, historicamente afetado por desmatamento, isolamento geográfico e enchentes sazonais dos rios. Desafios de acesso a serviços básicos. (Ref. pesquisas sobre a Amazônia Ocidental e dados de desastres)."
+  },
+  {
+    "name": "Alta Floresta",
+    "lat": -9.670,
+    "lon": -56.088,
+    "riskLevel": 65,
+    "justification": "Fronteira agrícola no norte do Mato Grosso. Desmatamento, suscetibilidade a queimadas, questões fundiárias e pressão sobre recursos naturais. (Ref. INPE, pesquisas sobre expansão agrícola)."
+  },
+  {
+    "name": "Nova Mutum",
+    "lat": -14.000,
+    "lon": -56.000,
+    "riskLevel": 50,
+    "justification": "Centro de agronegócio em forte crescimento. Riscos moderados relacionados a impactos agrícolas (uso de agrotóxicos), mas com boa infraestrutura local. (Ref. estudos sobre impacto ambiental do agronegócio)."
+  },
+  {
+    "name": "São Luís",
+    "lat": -2.529,
+    "lon": -44.303,
+    "riskLevel": 75,
+    "justification": "Capital costeira com alta densidade. Problemas crônicos de saneamento, áreas de ocupação irregular em mangues e encostas, vulnerabilidade a inundações e marés altas. (Ref. Atlas de Desastres no Brasil, relatórios de saneamento)."
+  },
+  {
+    "name": "Teresina",
+    "lat": -5.092,
+    "lon": -42.804,
+    "riskLevel": 55,
+    "justification": "Capital não costeira, caracterizada por altas temperaturas. Problemas de saneamento em algumas áreas e inundações pontuais do rio Parnaíba. (Ref. dados do SNIS - Sistema Nacional de Informações sobre Saneamento)."
+  },
+  {
+    "name": "Fortaleza",
+    "lat": -3.731,
+    "lon": -38.526,
+    "riskLevel": 85,
+    "justification": "Megalópole do Nordeste, alta densidade populacional. Riscos de erosão costeira, enchentes em áreas urbanas, favelização em encostas e mangues. (Ref. CEMADEN, planos diretores de cidades costeiras)."
+  },
+  {
+    "name": "Interior Ceará",
+    "lat": -4.000,
+    "lon": -40.000,
+    "riskLevel": 68,
+    "justification": "Região semiárida com histórico de seca severa e prolongada. Vulnerabilidade social e hídrica alta para comunidades dependentes da agricultura de sequeiro. (Ref. ANA - Agência Nacional de Águas, estudos sobre o semiárido)."
+  },
+  {
+    "name": "Natal",
+    "lat": -5.783,
+    "lon": -35.201,
+    "riskLevel": 73,
+    "justification": "Cidade costeira em expansão. Erosão marinha acentuada em algumas praias, urbanização desordenada, riscos de desabamentos em falésias. (Ref. estudos de geomorfologia costeira, planos de manejo de orla)."
+  },
+  {
+    "name": "João Pessoa",
+    "lat": -7.118,
+    "lon": -34.869,
+    "riskLevel": 70,
+    "justification": "Capital costeira com crescimento urbano. Riscos moderados de inundações urbanas e desafios de saneamento em áreas de expansão. (Ref. dados do SNIS e estudos de expansão urbana)."
+  },
+  {
+    "name": "Recife",
+    "lat": -8.047,
+    "lon": -34.877,
+    "riskLevel": 97,
+    "justification": "Risco CRÍTICO: Uma das cidades mais vulneráveis do Brasil a inundações (rios, canais), alta densidade e ocupação irregular em morros (deslizamentos) e áreas de palafitas. Extrema vulnerabilidade social. (Ref. CEMADEN, Universidades locais, relatórios de desastres)."
+  },
+  {
+    "name": "Caruaru",
+    "lat": -8.500,
+    "lon": -37.000,
+    "riskLevel": 60,
+    "justification": "Município no Agreste pernambucano, semiárido. Seca, mas com infraestrutura de abastecimento melhorada. Desafios de urbanização em áreas periféricas. (Ref. dados do IBGE, SUDENE)."
+  },
+  {
+    "name": "Maceió",
+    "lat": -9.665,
+    "lon": -35.736,
+    "riskLevel": 85,
+    "justification": "Capital costeira com alto risco geológico em áreas específicas devido à mineração de sal-gema (afundamento de solo). Problemas de saneamento e inundações pontuais. (Ref. CPRM - Serviço Geológico do Brasil, Defesa Civil)."
+  },
+  {
+    "name": "Aracaju",
+    "lat": -10.916,
+    "lon": -37.072,
+    "riskLevel": 65,
+    "justification": "Cidade costeira. Riscos de inundação em áreas de baixada e mangue, desafios de saneamento. Menor complexidade de riscos naturais que outras capitais do NE. (Ref. dados do SNIS)."
+  },
+  {
+    "name": "Salvador",
+    "lat": -12.977,
+    "lon": -38.501,
+    "riskLevel": 92,
+    "justification": "Megalópole com relevo acidentado. Alto risco de deslizamentos de encostas, inundações, densa ocupação irregular e desafios de saneamento. (Ref. CEMADEN, Defesa Civil de Salvador)."
+  },
+  {
+    "name": "Ilhéus/Sul da Bahia",
+    "lat": -14.825,
+    "lon": -39.000,
+    "riskLevel": 75,
+    "justification": "Região com histórico de chuvas intensas e recorrentes. Deslizamentos de encostas e inundações fluviais e costeiras. Urbanização em áreas sensíveis. (Ref. Defesa Civil da Bahia, estudos climáticos)."
+  },
+  {
+    "name": "Chapada Diamantina",
+    "lat": -12.000,
+    "lon": -42.000,
+    "riskLevel": 45,
+    "justification": "Área de interior com menor densidade populacional e focos de turismo ecológico. Riscos naturais mais controlados, como incêndios florestais em períodos de seca. (Ref. ICMBio, estudos sobre parques nacionais)."
+  },
+  {
+    "name": "Petrolina/Juazeiro",
+    "lat": -9.500,
+    "lon": -40.000,
+    "riskLevel": 50,
+    "justification": "Polo agrícola irrigado no semiárido. Desafios relacionados à gestão hídrica, mas investimentos em infraestrutura. Menor risco de desastres diretos para moradia urbana. (Ref. ANA, CODEVASF)."
+  },
+  {
+    "name": "Interior PB/RN",
+    "lat": -6.000,
+    "lon": -36.000,
+    "riskLevel": 55,
+    "justification": "Região semiárida do Nordeste. Vulnerabilidade à seca e seus impactos socioeconômicos na agricultura familiar. (Ref. SUDENE, EMBRAPA)."
+  },
+  {
+    "name": "Brasília",
+    "lat": -15.780,
+    "lon": -47.929,
+    "riskLevel": 35,
+    "justification": "Capital planejada com infraestrutura consolidada e urbanismo controlado. Baixo risco natural de desastres em grande parte do território. (Ref. dados do IBGE sobre infraestrutura urbana)."
+  },
+  {
+    "name": "Goiânia",
+    "lat": -16.685,
+    "lon": -49.261,
+    "riskLevel": 60,
+    "justification": "Grande centro urbano. Problemas de poluição do ar e sonora, inundações pontuais em áreas de córregos e desafios de expansão urbana. (Ref. agências de meio ambiente estaduais, estudos de urbanização)."
+  },
+  {
+    "name": "Rio Verde",
+    "lat": -17.848,
+    "lon": -51.785,
+    "riskLevel": 25,
+    "justification": "Centro de agronegócio. Menor densidade populacional e boa infraestrutura rural. Baixo risco natural para moradia. (Ref. estudos sobre o desenvolvimento do agronegócio e seus impactos)."
+  },
+  {
+    "name": "Campo Grande",
+    "lat": -20.443,
+    "lon": -54.647,
+    "riskLevel": 45,
+    "justification": "Capital em expansão. Risco de inundações urbanas em áreas de baixa altitude e desafios de saneamento em bairros mais afastados. (Ref. Defesa Civil municipal, SNIS)."
+  },
+  {
+    "name": "Cuiabá",
+    "lat": -15.599,
+    "lon": -56.094,
+    "riskLevel": 65,
+    "justification": "Temperaturas elevadas e riscos sazonais de inundações devido a rios. Pressão do desmatamento no entorno (Cerrado e Pantanal). (Ref. INPE, dados de monitoramento climático)."
+  },
+  {
+    "name": "Colíder",
+    "lat": -12.000,
+    "lon": -54.000,
+    "riskLevel": 50,
+    "justification": "Região de expansão agrícola e pecuária. Riscos de desmatamento e queimadas, mas com infraestrutura razoável para a população urbana. (Ref. INPE, estudos sobre a fronteira agrícola)."
+  },
+  {
+    "name": "São Paulo",
+    "lat": -23.550,
+    "lon": -46.633,
+    "riskLevel": 99,
+    "justification": "RISCO CRÍTICO: Maior megalópole do Brasil. Inundações urbanas crônicas, deslizamentos em encostas (favelas), poluição do ar e sonora, altíssima desigualdade social e violência. (Ref. CEMADEN, CGE - Centro de Gerenciamento de Emergências, IBGE)."
+  },
+  {
+    "name": "Bauru",
+    "lat": -22.128,
+    "lon": -48.530,
+    "riskLevel": 55,
+    "justification": "Cidade interiorana de porte médio. Riscos urbanos moderados, principalmente relacionados a chuvas fortes e saneamento em algumas áreas. (Ref. planos diretores municipais, dados de saneamento)."
+  },
+  {
+    "name": "Rio de Janeiro",
+    "lat": -22.906,
+    "lon": -43.172,
+    "riskLevel": 100,
+    "justification": "RISCO CRÍTICO E EXTREMO: Metrópole com relevo acidentado. Altíssimo risco de deslizamentos (comunidades em morros), inundações urbanas e fluviais, violência urbana generalizada, alta desigualdade. (Ref. CEMADEN, GeoRio, ISP - Instituto de Segurança Pública)."
+  },
+  {
+    "name": "Belo Horizonte",
+    "lat": -19.916,
+    "lon": -43.938,
+    "riskLevel": 78,
+    "justification": "Capital com relevo de morros. Deslizamentos de encostas, enchentes urbanas em áreas de baixada, adensamento populacional. (Ref. Defesa Civil de BH, estudos geomorfológicos)."
+  },
+  {
+    "name": "Vitória",
+    "lat": -20.315,
+    "lon": -40.339,
+    "riskLevel": 82,
+    "justification": "Capital costeira com grande parte em ilhas e encostas. Adensamento urbano em áreas de risco, ressacas, inundações pontuais. (Ref. Defesa Civil do ES, estudos de vulnerabilidade costeira)."
+  },
+  {
+    "name": "Curitiba",
+    "lat": -25.428,
+    "lon": -49.273,
+    "riskLevel": 68,
+    "justification": "Capital com clima frio e alta urbanização. Riscos urbanos moderados, incluindo inundações pontuais em áreas ribeirinhas e desafios de mobilidade. (Ref. IPPUC, Defesa Civil)."
+  },
+  {
+    "name": "Cascavel",
+    "lat": -24.770,
+    "lon": -53.743,
+    "riskLevel": 48,
+    "justification": "Interior do Paraná, polo agroindustrial. Eventos climáticos isolados (vendavais, chuvas fortes) mas com boa infraestrutura e menor vulnerabilidade. (Ref. Simepar - Sistema Meteorológico do Paraná)."
+  },
+  {
+    "name": "Florianópolis",
+    "lat": -27.593,
+    "lon": -48.558,
+    "riskLevel": 83,
+    "justification": "Capital insular e costeira. Risco elevado de ressacas e erosão costeira. Urbanização em áreas sensíveis (dunas, mangues), deslizamentos em morros. (Ref. Defesa Civil de SC, estudos oceanográficos)."
+  },
+  {
+    "name": "Chapecó",
+    "lat": -26.918,
+    "lon": -52.348,
+    "riskLevel": 55,
+    "justification": "Interior, polo agroindustrial. Riscos climáticos moderados (chuvas fortes, vendavais). Menor complexidade de riscos urbanos. (Ref. Simepar)."
+  },
+  {
+    "name": "Porto Alegre",
+    "lat": -30.034,
+    "lon": -51.217,
+    "riskLevel": 92,
+    "justification": "Risco ALTO a MUITO ALTO: Histórico de inundações severas (rios Guaíba), eventos climáticos extremos (temporais, ciclones). Adensamento urbano em áreas de risco. (Ref. Defesa Civil do RS, Centro de Previsão de Tempo e Estudos Climáticos - CPTEC)."
+  }
+]
